@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abaf218f-b857-4cd5-b301-5a786306fba3": {
+      "ProjectGuid": "abaf218f-b857-4cd5-b301-5a786306fba3",
+      "DisplayName": "ApniDukanConsole",
+      "ColorIndex": 0
+    },
+    "82b436eb-167b-4c33-bce3-e18697a2998a": {
+      "ProjectGuid": "82b436eb-167b-4c33-bce3-e18697a2998a",
+      "DisplayName": "Main",
+      "ColorIndex": 1
+    },
+    "0d7a04e1-749a-4390-8a5f-c5c135e749cc": {
+      "ProjectGuid": "0d7a04e1-749a-4390-8a5f-c5c135e749cc",
+      "DisplayName": "User",
+      "ColorIndex": 2
+    },
+    "a397eea5-1c80-423d-9876-72b8e4a4b4e9": {
+      "ProjectGuid": "a397eea5-1c80-423d-9876-72b8e4a4b4e9",
+      "DisplayName": "Employee",
+      "ColorIndex": 3
+    },
+    "e3240f11-768b-4787-9c84-60bc7df9cd85": {
+      "ProjectGuid": "e3240f11-768b-4787-9c84-60bc7df9cd85",
+      "DisplayName": "Cart",
+      "ColorIndex": 4
+    },
+    "070d8f23-6c9b-4c55-a435-f62dcc5894b5": {
+      "ProjectGuid": "070d8f23-6c9b-4c55-a435-f62dcc5894b5",
+      "DisplayName": "Order",
+      "ColorIndex": 5
+    },
+    "ed516396-8f1b-46d5-971f-7cdbe5c81739": {
+      "ProjectGuid": "ed516396-8f1b-46d5-971f-7cdbe5c81739",
+      "DisplayName": "Payment",
+      "ColorIndex": 6
+    },
+    "00c3c2fc-3033-4541-bda1-326612179448": {
+      "ProjectGuid": "00c3c2fc-3033-4541-bda1-326612179448",
+      "DisplayName": "Product",
+      "ColorIndex": 7
+    },
+    "54934e6b-336f-4ea6-be6c-a6272b451a14": {
+      "ProjectGuid": "54934e6b-336f-4ea6-be6c-a6272b451a14",
+      "DisplayName": "DatabaseConnection",
+      "ColorIndex": 8
+    },
+    "0e187d07-5fb3-4ef6-aae5-2b44b7107e31": {
+      "ProjectGuid": "0e187d07-5fb3-4ef6-aae5-2b44b7107e31",
+      "DisplayName": "BusinessException",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 10
+}

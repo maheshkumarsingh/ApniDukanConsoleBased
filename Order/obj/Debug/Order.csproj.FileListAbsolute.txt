@@ -1,0 +1,5 @@
+E:\Mahesh\Cognizant\Training\ApniDukan\Order\bin\Debug\Order.dll
+E:\Mahesh\Cognizant\Training\ApniDukan\Order\bin\Debug\Order.pdb
+E:\Mahesh\Cognizant\Training\ApniDukan\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+E:\Mahesh\Cognizant\Training\ApniDukan\Order\obj\Debug\Order.dll
+E:\Mahesh\Cognizant\Training\ApniDukan\Order\obj\Debug\Order.pdb

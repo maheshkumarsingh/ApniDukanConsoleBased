@@ -1,0 +1,17 @@
+Enter UserEmailID:
+sm.singhmahesh@gmail.com
+
+Enter Password :)
+Mahesh2170@
+
+Confirm Password :(
+Mahesh2170@
+
+Enter First Name
+Mahesh
+
+Enter Last Name
+Singh
+Enter Contact Number
+9525958755
+Saving your data!!

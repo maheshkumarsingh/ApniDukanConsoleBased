@@ -1,0 +1,9 @@
+E:\Mahesh\Cognizant\Training\ApniDukan\Employee\bin\Debug\Employee.dll
+E:\Mahesh\Cognizant\Training\ApniDukan\Employee\bin\Debug\Employee.pdb
+E:\Mahesh\Cognizant\Training\ApniDukan\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+E:\Mahesh\Cognizant\Training\ApniDukan\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+E:\Mahesh\Cognizant\Training\ApniDukan\Employee\obj\Debug\Employee.dll
+E:\Mahesh\Cognizant\Training\ApniDukan\Employee\obj\Debug\Employee.pdb
+E:\Mahesh\Cognizant\Training\ApniDukan\Employee\bin\Debug\DatabaseConnection.dll
+E:\Mahesh\Cognizant\Training\ApniDukan\Employee\bin\Debug\DatabaseConnection.pdb
+E:\Mahesh\Cognizant\Training\ApniDukan\Employee\obj\Debug\Employee.csproj.CopyComplete

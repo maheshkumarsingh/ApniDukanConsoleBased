@@ -1,0 +1,8 @@
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\ApniDukan\bin\Debug\ApniDukan.exe.config
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\ApniDukan\bin\Debug\ApniDukan.exe
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\ApniDukan\bin\Debug\ApniDukan.pdb
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\ApniDukan\obj\Debug\ApniDukan.csproj.AssemblyReference.cache
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\ApniDukan\obj\Debug\ApniDukan.csproj.SuggestedBindingRedirects.cache
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\ApniDukan\obj\Debug\ApniDukan.csproj.CoreCompileInputs.cache
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\ApniDukan\obj\Debug\ApniDukan.exe
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\ApniDukan\obj\Debug\ApniDukan.pdb
