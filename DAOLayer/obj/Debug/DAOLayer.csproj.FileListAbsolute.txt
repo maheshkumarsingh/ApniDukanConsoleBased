@@ -1,0 +1,11 @@
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\obj\Debug\DAOLayer.csproj.AssemblyReference.cache
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\obj\Debug\DAOLayer.csproj.CoreCompileInputs.cache
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\bin\Debug\DAOLayer.dll
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\bin\Debug\DAOLayer.pdb
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\bin\Debug\Entities.dll
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\bin\Debug\Utilities.dll
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\bin\Debug\Entities.pdb
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\bin\Debug\Utilities.pdb
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\obj\Debug\DAOLayer.csproj.CopyComplete
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\obj\Debug\DAOLayer.dll
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\DAOLayer\obj\Debug\DAOLayer.pdb

@@ -1,0 +1,13 @@
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\bin\Debug\DAOLayer.dll
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\bin\Debug\Utilities.dll
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\bin\Debug\DAOLayer.pdb
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\bin\Debug\Utilities.pdb
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,6 +1,0 @@
-E:\Mahesh\Cognizant\Training\ApniDukan\Payment\bin\Debug\Payment.dll
-E:\Mahesh\Cognizant\Training\ApniDukan\Payment\bin\Debug\Payment.pdb
-E:\Mahesh\Cognizant\Training\ApniDukan\Payment\obj\Debug\Payment.csproj.CoreCompileInputs.cache
-E:\Mahesh\Cognizant\Training\ApniDukan\Payment\obj\Debug\Payment.dll
-E:\Mahesh\Cognizant\Training\ApniDukan\Payment\obj\Debug\Payment.pdb
-E:\Mahesh\Cognizant\Training\ApniDukan\Payment\obj\Debug\Payment.csproj.AssemblyReference.cache

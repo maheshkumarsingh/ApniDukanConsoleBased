@@ -1,0 +1,7 @@
+create table Cart1(
+cart_id int identity(1,1) primary key,
+User_ID int,
+Product_ID int,
+constraint fk_user_id foreign key(User_ID) references UserMaster(User_ID) on delete cascade,
+constraint fk_product_id foreign key(Product_ID) references Product(Product_ID) on delete cascade
+);

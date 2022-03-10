@@ -1,6 +1,0 @@
-E:\Mahesh\Cognizant\Training\ApniDukan\DatabaseConnection\bin\Debug\DatabaseConnection.dll
-E:\Mahesh\Cognizant\Training\ApniDukan\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
-E:\Mahesh\Cognizant\Training\ApniDukan\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
-E:\Mahesh\Cognizant\Training\ApniDukan\DatabaseConnection\obj\Debug\DatabaseConnection.dll
-E:\Mahesh\Cognizant\Training\ApniDukan\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
-E:\Mahesh\Cognizant\Training\ApniDukan\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
