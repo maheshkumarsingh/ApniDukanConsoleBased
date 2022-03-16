@@ -17,6 +17,11 @@ namespace DAOLayer
         public const string READ_USER ="select User_ID, User_FName, User_LName, User_Email, " +
                     "User_Password, User_Contact,User_JoinedDate from UserMaster where " +
                     "User_Email= @User_Email";
+        
+        public const string READ_ALL_USER ="select User_ID, User_FName, User_LName, User_Email, " +
+                    "User_Password, User_Contact,User_JoinedDate from UserMaster";
+
+
         #endregion
         public int InsertUser(User user)
         {
@@ -123,5 +128,50 @@ namespace DAOLayer
                 throw new BusinessException(ex.Message);
             }
         }
+
+        public List<User> ReadAllUser()
+        {
+            bool hasMatchingRecords = false;
+
+            User user = null;
+            List<User> userList = new List<User>();
+            SqlConnection sqlConnection = new SqlConnection(Helper.ConnectionString);
+            SqlCommand sqlCommand = new SqlCommand
+            {
+                Connection = sqlConnection,
+                CommandType = CommandType.Text,
+                CommandText = READ_ALL_USER
+            };
+
+            using (sqlConnection)
+            {
+                sqlCommand.Prepare();
+                sqlConnection.Open();
+                SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
+
+                if (sqlDataReader.HasRows)
+                {
+                    while (sqlDataReader.Read())
+                    {
+                        user = new User();
+                        user.UserId = Convert.ToInt16(sqlDataReader.GetValue(sqlDataReader.GetOrdinal("User_ID")));
+                        user.UserFName = Convert.ToString(sqlDataReader.GetValue(sqlDataReader.GetOrdinal("User_FName")));
+                        user.UserLName = Convert.ToString(sqlDataReader.GetValue(sqlDataReader.GetOrdinal("User_LName")));
+                        user.UserEmail = Convert.ToString(sqlDataReader.GetValue(sqlDataReader.GetOrdinal("User_Email")));
+                        user.UserPassword = Convert.ToString(sqlDataReader.GetValue(sqlDataReader.GetOrdinal("User_Password")));
+                        user.UserConatct = Convert.ToInt64(sqlDataReader.GetValue(sqlDataReader.GetOrdinal("User_Contact")));
+                        user.UserJoinedDate = Convert.ToDateTime(sqlDataReader.GetValue(sqlDataReader.GetOrdinal("User_JoinedDate")));
+                        userList.Add(user);
+                        hasMatchingRecords=true;
+                    }
+                }
+                if (hasMatchingRecords==true)
+                    return userList;
+                else
+                    return null;
+            }
+        }
+
+
     }
 }

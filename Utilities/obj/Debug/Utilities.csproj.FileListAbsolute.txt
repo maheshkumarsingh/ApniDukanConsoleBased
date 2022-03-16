@@ -1,6 +1,6 @@
-C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
-C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Utilities\bin\Debug\Utilities.dll
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Utilities\bin\Debug\Utilities.pdb
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Utilities\obj\Debug\Utilities.dll
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Utilities\obj\Debug\Utilities.pdb

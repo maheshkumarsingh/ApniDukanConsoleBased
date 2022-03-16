@@ -1,8 +1,3 @@
-C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
-C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\ServiceLayer.csproj.SuggestedBindingRedirects.cache
-C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
-C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\Main.exe
-C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\Main.pdb
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\bin\Debug\Main.exe.config
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\bin\Debug\Main.exe
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\bin\Debug\Main.pdb
@@ -14,4 +9,9 @@ C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\bin\Debug\
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\bin\Debug\Entities.pdb
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\bin\Debug\Utilities.pdb
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\bin\Debug\DAOLayer.pdb
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\ServiceLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
 C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\Main.exe
+C:\Users\2100227\OneDrive - Cognizant\Desktop\Training\ApniDukan\Main\obj\Debug\Main.pdb

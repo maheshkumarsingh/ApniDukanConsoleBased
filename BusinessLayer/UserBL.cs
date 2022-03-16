@@ -38,6 +38,11 @@ namespace BusinessLayer
             return userDAO.ReadUserByEmailID(userEmailID);
         }
 
+        public List<User> ReadAllUser()
+        {
+            return userDAO.ReadAllUser();
+        }
+
         public int InsertUser(User user)
         {
             return userDAO.InsertUser(user);

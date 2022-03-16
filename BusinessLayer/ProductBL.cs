@@ -3,8 +3,6 @@ using Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BusinessLayer
 {
@@ -17,15 +15,45 @@ namespace BusinessLayer
             return productDAO.ReadAllProduct();
         }
 
-        public List<Product> SortProductsByCategory(string cat, List<Product> productList)
+        public Product SearchProductByID(int id)
         {
-            List<Product> list = new List<Product>();
-            foreach (Product item in productList)
-                if(item.ProductType.Equals(cat))
-                    list.Add(item);
-            return list;
+            return productDAO.SearchProductByID(id);
         }
 
-       
+        public IEnumerable<Product> SortProductsByCategory(string cat, List<Product> productList)
+        {
+            IEnumerable<Product> orderByCategory =
+                productList.Where(p=> p.ProductType==cat);
+            return orderByCategory;
+        }
+
+        public IEnumerable<Product> SortProductsByCategory(List<Product> productList)
+        {
+            IEnumerable<Product> orderByCategory = 
+                productList.OrderBy(p=>p.ProductType);
+            return orderByCategory;
+        }
+
+
+
+        public IEnumerable<Product> SortProductsByPrice(List<Product> productList)
+        {
+            //return productDAO.SortProductsByPrice(productList);
+            IEnumerable<Product> orderByPrice =
+                productList.OrderBy(p => p.ProductPrice);
+            return orderByPrice;
+        }
+
+        public IEnumerable<Product> SortProductsByMFGDate(List<Product> productList)
+        {
+            IEnumerable<Product> orderByMFGDate =
+                productList.OrderBy(p => p.ProductMFGDate);
+            return orderByMFGDate;
+        }
+
+        public int AddProduct(Product product) => productDAO.AddProduct(product);
+        public int UpdateProductByID(int id, Int64 price) => productDAO.UpdateProductByID(id, price);
+
+        public int DeleteProductByID(int id) => productDAO.DeleteProductByID(id);
     }
 }

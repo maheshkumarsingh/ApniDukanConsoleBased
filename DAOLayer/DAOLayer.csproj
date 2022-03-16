@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="CartDAO.cs" />
     <Compile Include="EmployeeDAO.cs" />
+    <Compile Include="ICartDAO.cs" />
     <Compile Include="IProductDAO.cs" />
     <Compile Include="OrderDAO.cs" />
     <Compile Include="PaymentDAO.cs" />
