@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\BusinessLayer",
-    "\\Main"
+    "\\BusinessLayer\\Properties",
+    "\\Main",
+    "\\packages",
+    "\\UserInterface"
   ],
   "SelectedNode": "\\ApniDukan.sln",
   "PreviewInSolutionExplorer": false
